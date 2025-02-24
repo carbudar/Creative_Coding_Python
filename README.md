@@ -7,7 +7,7 @@
 
 ### Directory
 1. [Week 2 - Feb 03 2025](#Week-2)
-2. [Week 2 - Feb 10 2025](#Week-3)
+2. [Week 3 - Feb 10 2025](#Week-3)
 3. [Resources](#Resources)
 
 
@@ -51,7 +51,7 @@ Derived from Skulls and Hearts by
 [Fish ASCII Art](https://www.asciiart.eu/animals/fish)
 
 
-[Code](https://github.com/carbudar/Creative_Coding_Python/commit/7c8736ea7c2ac99eb5b984ce12ab290f4da1c391)
+[Code](https://github.com/carbudar/Creative_Coding_Python/commit/e44a440fe3ba2c8e9789e3ec608e19b5186bc8ff)
 
 
 
