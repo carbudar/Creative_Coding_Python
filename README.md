@@ -43,7 +43,7 @@ Mouse_x and mouse_y interaction, turning the color darker
 *Fish In The Sky*
 
 Derived from Skulls and Hearts by 
-[Al Sweigart](https://github.com/carbudar/Creative_Coding_Python/commit/e44a440fe3ba2c8e9789e3ec608e19b5186bc8ff)
+[Al Sweigart](https://scrollart.org/skulls-and-hearts/)
 
 
 [Cloud ASCII Art](https://www.asciiart.eu/nature/clouds)
