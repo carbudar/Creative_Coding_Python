@@ -31,8 +31,12 @@ Mouse_x and mouse_y interaction, turning the color darker
 # Week 3
 
 ## Assignment 3: Scroll Art
-<img width="397" alt="Mondrian painting with random color 1" src="https://github.com/user-attachments/assets/a4831dcc-42a8-4f30-98b6-6321c15a7890" />
-<img width="397" alt="Mondrian painting with random color 2" src="https://github.com/user-attachments/assets/e036de7a-d465-4b5b-b828-bc44aae22e74" />
+<img width="397" alt="Scroll Art Cloud and Fish Iteration 4" src="https://github.com/user-attachments/assets/a4831dcc-42a8-4f30-98b6-6321c15a7890" />
+
+### Iterations + Process
+<img width="200" alt="Scroll Art Cloud and Fish Iteration 1" src="https://github.com/user-attachments/assets/a4831dcc-42a8-4f30-98b6-6321c15a7890" />
+<img width="200" alt="Scroll Art Cloud and Fish Iteration 2" src="https://github.com/user-attachments/assets/e036de7a-d465-4b5b-b828-bc44aae22e74" />
+<img width="200" alt="Scroll Art Cloud and Fish Iteration 3" src="https://github.com/user-attachments/assets/e036de7a-d465-4b5b-b828-bc44aae22e74" />
 
 
 
