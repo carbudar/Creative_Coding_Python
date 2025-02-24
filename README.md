@@ -31,7 +31,7 @@ Mouse_x and mouse_y interaction, turning the color darker
 # Week 3
 
 ## Assignment 3: Scroll Art
-<img width="500" alt="Scroll Art Cloud and Fish Iteration 4" src="https://github.com/carbudar/Creative_Coding_Python/blob/main/Scroll%20Art%20It4.png" />
+<img width="500" alt="Scroll Art Cloud and Fish Iteration 4" src="https://github.com/carbudar/Creative_Coding_Python/blob/main/Scroll%20Art%20Recording.gif" />
 
 ### Iterations + Process
 <img width="250" alt="Scroll Art Cloud and Fish Iteration 1" src="https://github.com/carbudar/Creative_Coding_Python/blob/main/Scroll%20Art%20It1.png" />
