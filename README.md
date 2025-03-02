@@ -8,7 +8,8 @@
 ### Directory
 1. [Week 2 - Feb 03 2025](#Week-2)
 2. [Week 3 - Feb 10 2025](#Week-3)
-3. [Resources](#Resources)
+3. [Week 4 - Feb 17 2025](#Week-4)
+4. [Resources](#Resources)
 
 
 # Week 2
@@ -53,7 +54,22 @@ Derived from Skulls and Hearts by
 
 [Code](https://github.com/carbudar/Creative_Coding_Python/commit/e44a440fe3ba2c8e9789e3ec608e19b5186bc8ff)
 
+# Week 4
 
+## Assignment 4: Turtle
+*Circle Pattern*
+
+
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-03-02 at 18.47.26.png" />
+Inspiration image
+
+<img width="500" alt="Turtle sketch circle pattern4" src="Screenshot 2025-03-02 at 18.49.30.png" />
+Turtle sketch
+
+
+
+
+[Code](circlepattern.py)
 
 
 
