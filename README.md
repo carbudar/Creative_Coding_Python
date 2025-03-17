@@ -9,7 +9,8 @@
 1. [Week 2 - Feb 03 2025](#Week-2)
 2. [Week 3 - Feb 10 2025](#Week-3)
 3. [Week 4 - Feb 17 2025](#Week-4)
-4. [Resources](#Resources)
+4. [Week 5 - Mar 16 2025](#Week-5)
+5. [Resources](#Resources)
 
 
 # Week 2
@@ -66,6 +67,17 @@ Inspiration image
 <img width="500" alt="Turtle sketch circle pattern4" src="Screenshot 2025-03-02 at 18.49.30.png" />
 Turtle sketch
 
+# Week 5
+
+## Assignment 5: PyGame
+*Modified Spaceship Game*
+
+
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-03-02 at 18.47.26.png" />
+Inspiration image
+
+<img width="500" alt="Turtle sketch circle pattern4" src="Screenshot 2025-03-02 at 18.49.30.png" />
+Turtle sketch
 
 
 
