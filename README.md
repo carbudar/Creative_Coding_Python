@@ -77,7 +77,7 @@ Turtle sketch
 Game UI
 
 
-##What I Added:
+### What I Added:
 1. Background image,
 2. Points and missed enemy counter,
 3. Levels - after 10 points, the game goes faster
