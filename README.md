@@ -77,7 +77,13 @@ Turtle sketch
 Game UI
 
 
-
+##What I Added:
+1. Background image,
+2. Points and missed enemy counter,
+3. Levels - after 10 points, the game goes faster
+4. Color overlays - Red to indicate missed enemy, and green to indicate level up
+5. Sound effects - (shooting  bullets, enemy shot, enemy goes out of bound, level up)
+   
 
 
 [Code and Assets](pygame)
