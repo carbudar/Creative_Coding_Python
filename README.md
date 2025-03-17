@@ -73,15 +73,14 @@ Turtle sketch
 *Modified Spaceship Game*
 
 
-<img width="500" alt="Inspiration sketch" src="Screenshot 2025-03-02 at 18.47.26.png" />
-Inspiration image
-
-<img width="500" alt="Turtle sketch circle pattern4" src="Screenshot 2025-03-02 at 18.49.30.png" />
-Turtle sketch
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-03-16 at 23.45.13.png" />
+Game UI
 
 
 
-[Code](circlepattern.py)
+
+
+[Code and Assets](pygame)
 
 
 
