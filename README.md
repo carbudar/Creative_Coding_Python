@@ -10,7 +10,8 @@
 2. [Week 3 - Feb 10 2025](#Week-3)
 3. [Week 4 - Feb 17 2025](#Week-4)
 4. [Week 5 - Mar 16 2025](#Week-5)
-5. [Resources](#Resources)
+5. [Week 7 - Mar 23 2025](#Week-7)
+6. [Resources](#Resources)
 
 
 # Week 2
@@ -83,10 +84,19 @@ Game UI
 3. Levels - after 10 points, the game goes faster
 4. Color overlays - Red to indicate missed enemy, and green to indicate level up
 5. Sound effects - (shooting  bullets, enemy shot, enemy goes out of bound, level up)
-   
 
 
-[Code and Assets](pygame)
+# Week 7
+
+## Assignment 5: DataVis
+*NYC Squirrel Sensus Data*
+https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft
+
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-03-24 at 11.26.18.png" />
+
+### Showing Color of squirrel on X and Y axis from data
+
+[Code and Data](Squirrel Fur DataVis)
 
 
 
