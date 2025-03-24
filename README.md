@@ -85,6 +85,7 @@ Game UI
 4. Color overlays - Red to indicate missed enemy, and green to indicate level up
 5. Sound effects - (shooting  bullets, enemy shot, enemy goes out of bound, level up)
 
+[Code and Assets](https://github.com/carbudar/Creative_Coding_Python/tree/main/pygame)
 
 # Week 7
 
@@ -96,7 +97,7 @@ https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak
 
 ### Showing Color of squirrel on X and Y axis from data
 
-[Code and Data](Squirrel Fur DataVis)
+[Code and Data](https://github.com/carbudar/Creative_Coding_Python/tree/main/Squirrel%20Fur%20DataVis)
 
 
 
