@@ -11,7 +11,8 @@
 3. [Week 4 - Feb 17 2025](#Week-4)
 4. [Week 5 - Mar 16 2025](#Week-5)
 5. [Week 7 - Mar 23 2025](#Week-7)
-6. [Resources](#Resources)
+6. [Week 8](#Week-8)
+7. [Resources](#Resources)
 
 
 # Week 2
@@ -99,6 +100,13 @@ https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak
 
 [Code and Data](https://github.com/carbudar/Creative_Coding_Python/tree/main/Squirrel%20Fur%20DataVis)
 
+
+# Week 8
+
+## Assignment 5: Web Scraping
+*https://en.wikipedia.org/wiki/List_of_Adventure_Time_characters*
+
+[Code and Data](https://github.com/carbudar/Creative_Coding_Python/tree/main/WebScraping)
 
 
 
