@@ -12,7 +12,8 @@
 4. [Week 5 - Mar 16 2025](#Week-5)
 5. [Week 7 - Mar 23 2025](#Week-7)
 6. [Week 8](#Week-8)
-7. [Resources](#Resources)
+7. [Week 9](#Week-9)
+8. [Resources](#Resources)
 
 
 # Week 2
@@ -111,6 +112,12 @@ https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak
 # Week 9
 
 ## Assignment 8: LLM
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-04-06 at 23.41.16.png" />
+<img width="500" alt="Inspiration sketch" src="Screenshot 2025-04-06 at 23.42.06.png" />
+
+For this project, I tried to make a web app that generates poem based on user input. I used the google/flan-t5-small model and played around with the prompt and temprature. However, regardless of the temprature and prompts, none of the trials I did seem to generate outputs that make sense. I found all of the output to be weird and gibberish. I am not sure how to fix though.
+
+
 
 [Code](LLM)
 
