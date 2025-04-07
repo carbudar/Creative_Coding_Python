@@ -108,6 +108,11 @@ https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak
 
 [Code and Data](https://github.com/carbudar/Creative_Coding_Python/tree/main/WebScraping)
 
+# Week 9
+
+## Assignment 8: LLM
+
+[Code](LLM)
 
 
 # Resources
