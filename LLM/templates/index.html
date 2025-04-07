@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poem Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Poem Generator</h1>
+        <form method="post">
+            <label for="word_input">Enter a word:</label><br>
+            <input type="text" name="word_input" required><br><br>
+            <input type="submit" value="Generate Poem">
+        </form>
+
+        {% if poem %}
+            <div class="result">
+                <h2>Your Poem:</h2>
+                <p>{{ poem }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
