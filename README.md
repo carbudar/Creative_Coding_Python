@@ -132,7 +132,10 @@ Idea 1:
 Creating scroll art in Phython and translating it onto an LED board module powered by arduino. This will allow me to display continous digital art, physically.
 For this idea, I will need some electronics, like: Arduino board, small LEDs, and wiring.
 
-Though I am not sure currently how can I connect my phython script to the arduino computer, I am 
+Idea 2:
+Making a tetris game using pygame and creating a physical control module to control the game through tactile input powered by Arduino microcontroller. For this concept, I am going to require  some buttons/ joystick for positional controls, ardunio board, screen, and some electronics for wiring. 
+
+Though I am not sure currently how can I connect my phython script to the arduino computer, I found [this tutorial](https://youtu.be/UeybhVFqoeg?si=gSxDdFVdoNVa0tvt) that shows how I can controll the Arduino controller through a Python program, bypassing ArduinoIDE.
 
 
 [Code](LLM)
