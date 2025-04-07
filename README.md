@@ -13,7 +13,8 @@
 5. [Week 7 - Mar 23 2025](#Week-7)
 6. [Week 8](#Week-8)
 7. [Week 9](#Week-9)
-8. [Resources](#Resources)
+8. [Final Project Proposal](#proposal)
+9. [Resources](#Resources)
 
 
 # Week 2
@@ -117,6 +118,21 @@ https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak
 
 For this project, I tried to make a web app that generates poem based on user input. I used the google/flan-t5-small model and played around with the prompt and temprature. However, regardless of the temprature and prompts, none of the trials I did seem to generate outputs that make sense. I found all of the output to be weird and gibberish. I am not sure how to fix though.
 
+
+
+[Code](LLM)
+
+# Proposal
+
+## Final Project Proposal
+
+For the final project, I aim to leverage the techniques that I learnt through this class and combining it with physical computing, briding the connection of digital art and the physical world. I currently have two main ideas that I plan to build on.
+
+Idea 1:
+Creating scroll art in Phython and translating it onto an LED board module powered by arduino. This will allow me to display continous digital art, physically.
+For this idea, I will need some electronics, like: Arduino board, small LEDs, and wiring.
+
+Though I am not sure currently how can I connect my phython script to the arduino computer, I am 
 
 
 [Code](LLM)
