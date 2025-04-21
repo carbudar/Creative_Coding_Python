@@ -14,7 +14,8 @@
 6. [Week 8](#Week-8)
 7. [Week 9](#Week-9)
 8. [Final Project Proposal](#proposal)
-9. [Resources](#Resources)
+9. [Week 10](#pWeek-10)
+10. [Resources](#Resources)
 
 
 # Week 2
@@ -138,7 +139,18 @@ Making a tetris game using pygame and creating a physical control module to cont
 Though I am not sure currently how can I connect my phython script to the arduino computer, I found [this tutorial](https://youtu.be/UeybhVFqoeg?si=gSxDdFVdoNVa0tvt) that shows how I can controll the Arduino controller through a Python program, bypassing ArduinoIDE.
 
 
-[Code](LLM)
+# Week 10
+
+## Bad UI
+For this project, I expanded on the Phone Dial UI that was discussed in class and made the UI bad. I randomized each number that are clicked, disabled keyboard input, and added a clear button that only deletes all input.
+
+
+<img width="500" alt="Inspiration sketch" src="tkinter/Screenshot 2025-04-21 at 14.37.39.png" />
+
+
+[Code and Data](https://github.com/carbudar/Creative_Coding_Python/blob/main/tkinter/phone%20bad%20ui.py)
+
+
 
 
 # Resources
