@@ -14,8 +14,9 @@
 6. [Week 8](#Week-8)
 7. [Week 9](#Week-9)
 8. [Final Project Proposal](#proposal)
-9. [Week 10](#pWeek-10)
-10. [Resources](#Resources)
+9. [Week 10](#Week-10)
+10. [Final Project](#Finals)
+11. [Resources](#Resources)
 
 
 # Week 2
@@ -147,8 +148,20 @@ For this project, I expanded on the Phone Dial UI that was discussed in class an
 
 <img width="500" alt="Inspiration sketch" src="tkinter/Screenshot 2025-04-21 at 14.37.39.png" />
 
+# Finals
 
-[Code and Data](https://github.com/carbudar/Creative_Coding_Python/blob/main/tkinter/phone%20bad%20ui.py)
+## Final Project: Mirror Selfie
+
+
+<img width="500" alt="Inspiration sketch" src="IMG_4195.jpeg" />
+
+Acrylic, chipboard, electronics
+12 x 18 in
+
+In this project, I explored the interaction between people and mirrors. When walking by a mirror, I noticed that a lot of people tend to subconsciously stare at it to check their own appearance or to take mirror pictures. However, after I learnt about spy mirrors or two-way mirrors, I felt more cautious interacting with mirrors due to my paranoia of being spied on.
+For this project titled “Mirror Selfie”, I am embodying my fear of being stared back at by the mirror or anything behind the mirror. Using a camera with the OpenCV Python library, I detect faces and print out a frame of the moment when anyone looks into the mirror.
+
+[More Documentation](https://github.com/carbudar/Creative_Coding_Python/blob/main/Device%20Art%20Final%20Documentation.pdf)
 
 
 
